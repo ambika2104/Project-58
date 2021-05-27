@@ -1,0 +1,33 @@
+body{
+text-align: center;
+color:aquamarine
+}
+.menu{
+list-style:none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color:saddlebrown;
+cursor: pointer;
+}
+
+
+
+#sec1{
+color:palevioletred;
+
+}
+
+#img{
+height:150px;
+width: 100px;
+border-radius: 50px;
+
+}
+
+#sec2{
+color:fuchsia;
+
+}
